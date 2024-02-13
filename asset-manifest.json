@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio_agalya/static/css/main.e55051c1.css",
+    "main.js": "/portfolio_agalya/static/js/main.a8df297c.js",
+    "static/media/image.png": "/portfolio_agalya/static/media/image.a7635c8feb1639f36bdc.png",
+    "static/media/resume.pdf": "/portfolio_agalya/static/media/resume.1f224f81bcf1de704d7d.pdf",
+    "static/media/webdesign.png": "/portfolio_agalya/static/media/webdesign.36727dabd44db4cdc2b4.png",
+    "static/media/uidesign.png": "/portfolio_agalya/static/media/uidesign.5e0f0c94df67dbe80eee.png",
+    "static/media/logo2.jpg": "/portfolio_agalya/static/media/logo2.79ba63de407b581039e3.jpg",
+    "static/media/whatsapp.png": "/portfolio_agalya/static/media/whatsapp.1cbb56e10ab35a5ff898.png",
+    "static/media/ten.jpg": "/portfolio_agalya/static/media/ten.838ed3b0d4802863d768.jpg",
+    "static/media/appdesign.png": "/portfolio_agalya/static/media/appdesign.443a1e9c0554300f4325.png",
+    "static/media/todo.png": "/portfolio_agalya/static/media/todo.709f805cb63b30c7d4de.png",
+    "static/media/logo1.png": "/portfolio_agalya/static/media/logo1.c5cb96aaac916c222f50.png",
+    "static/media/linkedin.png": "/portfolio_agalya/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "static/media/logo.jpg": "/portfolio_agalya/static/media/logo.2862f5f807e7ddaa9bb2.jpg",
+    "static/media/menu.png": "/portfolio_agalya/static/media/menu.18bcf2a158c10b69b4a4.png",
+    "index.html": "/portfolio_agalya/index.html",
+    "main.e55051c1.css.map": "/portfolio_agalya/static/css/main.e55051c1.css.map",
+    "main.a8df297c.js.map": "/portfolio_agalya/static/js/main.a8df297c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55051c1.css",
+    "static/js/main.a8df297c.js"
+  ]
+}
